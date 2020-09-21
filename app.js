@@ -27,9 +27,9 @@ dercino.forEach(function(dercineiro){
     });
 });
 
-ramon.emit('speak', 'Samuel is a rascal');
-samuel.emit('speak', 'Look that ass');
-didico.emit('speak', 'weed');
+ramon.emit('speak', 'Rise Above');
+samuel.emit('speak', 'Hala Madrid');
+didico.emit('speak', 'Beer');
 duno.emit('speak', 'I love Taleb');
 
 
